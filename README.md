@@ -1,5 +1,5 @@
 # LAN-Speed-Testing-Tool
-1. The script displays the time taken for a round trip from sender to receiver.
+1. The script displays the time taken for a round trip from sender to receiver. The script is in the file [main.py](https://github.com/malpotra/LAN-Speed-Testing-Tool/blob/main/main.py)
    ![Sample Run](https://user-images.githubusercontent.com/56645001/117440267-72e8c000-af51-11eb-8fe0-f3cbfb899b48.png)
  
 3. It works for at least 2 devices on a LAN. 
